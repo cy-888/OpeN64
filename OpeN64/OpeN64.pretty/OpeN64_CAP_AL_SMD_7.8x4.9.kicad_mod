@@ -1,0 +1,101 @@
+(footprint "OpeN64_CAP_AL_SMD_7.8x4.9"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0 -0.5 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "330bd739-2c38-4929-b466-19ca6515b5f3")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(property "Value" "OpeN64_CAP_AL_SMD_7.8x4.9"
+		(at 0 1 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "f794ca1d-e52f-4e8a-bcfa-ab039762b8aa")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "98f93443-79c9-4890-87c0-dd05e433256a")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "b3793544-15ad-451d-84b7-74cc3aa072e7")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_poly
+		(pts
+			(xy 3.9615 -1.809404) (xy 0.991133 -1.809404) (xy 0.991133 -6.758073) (xy -1.316744 -6.758073) (xy -1.316744 -1.788728)
+			(xy -4.293306 -1.788728) (xy -4.293306 -12.028932) (xy -3.196214 -13.126024) (xy -1.333284 -13.126024)
+			(xy -1.333284 -8.172838) (xy 1.020857 -8.172838) (xy 1.020857 -13.130677) (xy 2.910384 -13.130677)
+			(xy 3.974806 -12.13395) (xy 3.974806 -1.809404)
+		)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.SilkS")
+		(uuid "269f10e6-c0de-4b0d-9372-a5fdca280bb9")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 2.5 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "162e2a24-4256-4e89-9ebb-22c25f8779b0")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" smd rect
+		(at -0.14 -10.74)
+		(size 1.7 4.5)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(thermal_bridge_angle 45)
+		(uuid "0ec55798-f9d4-45b3-934d-31e10bed8635")
+	)
+	(pad "2" smd rect
+		(at -0.14 -4.07)
+		(size 1.7 4.5)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(thermal_bridge_angle 45)
+		(uuid "aab2be79-4787-402a-9e07-cdc9344499d7")
+	)
+	(group ""
+		(uuid "b37a4c85-1259-4aaf-8103-7135a1254be4")
+		(members "269f10e6-c0de-4b0d-9372-a5fdca280bb9")
+	)
+	(embedded_fonts no)
+)

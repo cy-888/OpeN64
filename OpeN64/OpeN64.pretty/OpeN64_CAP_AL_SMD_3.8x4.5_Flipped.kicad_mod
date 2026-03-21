@@ -1,0 +1,92 @@
+(footprint "OpeN64_CAP_AL_SMD_3.8x4.5_Flipped"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0 -0.5 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "b3ee4833-9d4e-45fb-ac3d-f4d7cf7b8468")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(property "Value" "OpeN64_CAP_AL_SMD_3.8x4.5_Flipped"
+		(at 0 1 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "83b987a8-aaa3-4870-b468-cad17d71d7da")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "8bf41792-d7ff-4c25-87c8-92181890f5dd")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "194a8fe2-9749-42b5-9671-ee47201e70ea")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_poly
+		(pts
+			(xy -1.143941 -3.138552) (xy -1.143941 -0.195238) (xy 1.092296 -0.195238) (xy 1.092296 -3.173983)
+			(xy 2.333125 -3.173983) (xy 2.333125 2.448469) (xy 1.667613 3.113981) (xy 1.129222 3.113981) (xy 1.129222 0.210874)
+			(xy -1.141439 0.210874) (xy -1.141439 3.10269) (xy -1.151693 3.102507) (xy -1.748769 3.102507) (xy -2.353124 2.454481)
+			(xy -2.353124 -3.138552)
+		)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.SilkS")
+		(uuid "b7f7a8ad-69fd-450d-aef0-377c82897b60")
+	)
+	(pad "1" smd roundrect
+		(at 0 -1.77 270)
+		(size 2.7 1.7)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.15)
+		(uuid "f588258c-bd2f-465e-95bc-d3fd3fb991f6")
+	)
+	(pad "2" smd roundrect
+		(at 0 1.67 270)
+		(size 2.7 1.7)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.15)
+		(uuid "d24367da-7715-4686-9595-15db97b86e9d")
+	)
+	(group ""
+		(uuid "f6368350-1d0a-43f8-b49d-0254641e6350")
+		(members "b7f7a8ad-69fd-450d-aef0-377c82897b60")
+	)
+	(embedded_fonts no)
+)

@@ -1,0 +1,100 @@
+(footprint "OpeN64_P8_P9_Screw_Mount"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0 -0.5 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "543af41b-f275-4354-8e8b-f6d665df1b3b")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(property "Value" "N64_P8/P9_Screw_Bracket"
+		(at 0 1 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "681934e2-8807-423d-8527-bb8785961180")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "3d159aaa-2d1a-4776-a82e-83186ca1023e")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "26ba449e-d6d6-4783-9fc8-72d4370f5ec6")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_text user "${REFERENCE}"
+		(at 0 2.5 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "61fe1e4e-69b1-4fb0-9650-8fe51bafaec8")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" thru_hole circle
+		(at -2.76 -2.04)
+		(size 2.6 2.6)
+		(drill 1.8)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "5595d1d4-c38e-47d8-a7d5-2c37c1dad1ff")
+	)
+	(pad "2" thru_hole circle
+		(at 3.25 -2.04)
+		(size 2.6 2.6)
+		(drill 1.8)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "16bbf4b2-e2b9-4454-95bd-2892f38fbf4a")
+	)
+	(pad "3" thru_hole circle
+		(at -2.76 3.9)
+		(size 2.6 2.6)
+		(drill 1.8)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "fa4ffd81-e3ec-4596-beb3-149400f3c5b4")
+	)
+	(pad "4" thru_hole circle
+		(at 3.25 3.9)
+		(size 2.6 2.6)
+		(drill 1.8)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "7e20d2f4-94a3-4459-b701-cc4611f179ff")
+	)
+	(embedded_fonts no)
+)

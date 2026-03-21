@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "OpeN64")(type "KiCad")(uri "${KIPRJMOD}/OpeN64.pretty/")(options "")(descr ""))
+)
