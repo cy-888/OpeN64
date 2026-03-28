@@ -9913,7 +9913,7 @@
 				)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:N64 RCP"
+		(property "Footprint" "OpeN64:N64 RCP"
 			(at 1.524 -2.286 90)
 			(effects
 				(font
