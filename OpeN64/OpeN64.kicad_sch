@@ -11138,7 +11138,7 @@
 					)
 				)
 			)
-			(property "Footprint" "N64 Motherboard Components:N64 RCP"
+			(property "Footprint" "OpeN64:N64 RCP"
 				(at 1.524 -2.286 90)
 				(effects
 					(font
@@ -37970,7 +37970,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_SMD_0603"
+		(property "Footprint" "OpeN64:OpeN64_SMD_0603"
 			(at 468.63 209.55 0)
 			(effects
 				(font
@@ -38039,7 +38039,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_CAP_AL_SMD_6.2x4.7"
+		(property "Footprint" "OpeN64:OpeN64_CAP_AL_SMD_6.2x4.7"
 			(at 845.82 381 0)
 			(effects
 				(font
@@ -38240,7 +38240,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_SMD_0603"
+		(property "Footprint" "OpeN64:OpeN64_SMD_0603"
 			(at 506.73 415.29 0)
 			(effects
 				(font
@@ -38309,7 +38309,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_SMD_0603"
+		(property "Footprint" "OpeN64:OpeN64_SMD_0603"
 			(at 816.61 467.36 0)
 			(effects
 				(font
@@ -38378,7 +38378,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_SMD_0603"
+		(property "Footprint" "OpeN64:OpeN64_SMD_0603"
 			(at 781.05 473.71 0)
 			(effects
 				(font
@@ -38449,7 +38449,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_CRYSTAL_HC49S_TH"
+		(property "Footprint" "OpeN64:OpeN64_CRYSTAL_HC49S_TH"
 			(at 375.92 608.33 0)
 			(effects
 				(font
@@ -38582,7 +38582,7 @@
 				)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_Filter"
+		(property "Footprint" "OpeN64:OpeN64_Filter"
 			(at 974.09 223.52 0)
 			(effects
 				(font
@@ -38651,7 +38651,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_SMD_0603"
+		(property "Footprint" "OpeN64:OpeN64_SMD_0603"
 			(at 668.02 364.49 0)
 			(effects
 				(font
@@ -38720,7 +38720,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_SMD_0603"
+		(property "Footprint" "OpeN64:OpeN64_SMD_0603"
 			(at 730.25 627.38 0)
 			(effects
 				(font
@@ -38855,7 +38855,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_SMD_0603"
+		(property "Footprint" "OpeN64:OpeN64_SMD_0603"
 			(at 434.34 627.38 0)
 			(effects
 				(font
@@ -39056,7 +39056,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_SMD_0603"
+		(property "Footprint" "OpeN64:OpeN64_SMD_0603"
 			(at 483.87 557.53 0)
 			(effects
 				(font
@@ -39125,7 +39125,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_SMD_0603"
+		(property "Footprint" "OpeN64:OpeN64_SMD_0603"
 			(at 541.02 627.38 0)
 			(effects
 				(font
@@ -39194,7 +39194,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_SMD_0603"
+		(property "Footprint" "OpeN64:OpeN64_SMD_0603"
 			(at 558.8 205.74 0)
 			(effects
 				(font
@@ -39263,7 +39263,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_SMD_0603"
+		(property "Footprint" "OpeN64:OpeN64_SMD_0603"
 			(at 600.71 627.38 0)
 			(effects
 				(font
@@ -39332,7 +39332,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_SMD_0805"
+		(property "Footprint" "OpeN64:OpeN64_SMD_0805"
 			(at 491.49 337.82 0)
 			(effects
 				(font
@@ -39401,7 +39401,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_SMD_0603"
+		(property "Footprint" "OpeN64:OpeN64_SMD_0603"
 			(at 637.54 627.38 0)
 			(effects
 				(font
@@ -39535,7 +39535,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_SMD_0603"
+		(property "Footprint" "OpeN64:OpeN64_SMD_0603"
 			(at 825.5 551.18 0)
 			(effects
 				(font
@@ -39669,7 +39669,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_U3_PST9128"
+		(property "Footprint" "OpeN64:OpeN64_U3_PST9128"
 			(at 621.03 231.14 0)
 			(effects
 				(font
@@ -39747,7 +39747,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_SMD_0603"
+		(property "Footprint" "OpeN64:OpeN64_SMD_0603"
 			(at 775.97 605.79 0)
 			(effects
 				(font
@@ -39816,7 +39816,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_SMD_0603"
+		(property "Footprint" "OpeN64:OpeN64_SMD_0603"
 			(at 368.3 603.25 0)
 			(effects
 				(font
@@ -39883,7 +39883,7 @@
 				)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_SMD_0603"
+		(property "Footprint" "OpeN64:OpeN64_SMD_0603"
 			(at 838.2 361.95 0)
 			(effects
 				(font
@@ -39952,7 +39952,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_SMD_0603"
+		(property "Footprint" "OpeN64:OpeN64_SMD_0603"
 			(at 722.63 627.38 0)
 			(effects
 				(font
@@ -40021,7 +40021,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_SMD_0603"
+		(property "Footprint" "OpeN64:OpeN64_SMD_0603"
 			(at 468.63 337.82 0)
 			(effects
 				(font
@@ -40090,7 +40090,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_SMD_0805"
+		(property "Footprint" "OpeN64:OpeN64_SMD_0805"
 			(at 909.32 467.36 0)
 			(effects
 				(font
@@ -40159,7 +40159,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_SMD_0805"
+		(property "Footprint" "OpeN64:OpeN64_SMD_0805"
 			(at 520.7 436.88 0)
 			(effects
 				(font
@@ -40226,7 +40226,7 @@
 				)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_SMD_0603"
+		(property "Footprint" "OpeN64:OpeN64_SMD_0603"
 			(at 839.47 367.03 0)
 			(effects
 				(font
@@ -40295,7 +40295,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_SMD_0603"
+		(property "Footprint" "OpeN64:OpeN64_SMD_0603"
 			(at 525.78 627.38 0)
 			(effects
 				(font
@@ -40364,7 +40364,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_SMD_0603"
+		(property "Footprint" "OpeN64:OpeN64_SMD_0603"
 			(at 797.56 551.18 0)
 			(effects
 				(font
@@ -40433,7 +40433,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_SMD_0603"
+		(property "Footprint" "OpeN64:OpeN64_SMD_0603"
 			(at 368.3 361.95 0)
 			(effects
 				(font
@@ -40502,7 +40502,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_CAP_AL_SMD_3.8x4.5_Flipped"
+		(property "Footprint" "OpeN64:OpeN64_CAP_AL_SMD_3.8x4.5_Flipped"
 			(at 880.11 356.87 0)
 			(effects
 				(font
@@ -40571,7 +40571,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_SMD_0603"
+		(property "Footprint" "OpeN64:OpeN64_SMD_0603"
 			(at 549.91 440.69 0)
 			(effects
 				(font
@@ -40640,7 +40640,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_CAP_AL_SMD_6.2x4.7"
+		(property "Footprint" "OpeN64:OpeN64_CAP_AL_SMD_6.2x4.7"
 			(at 802.64 360.68 0)
 			(effects
 				(font
@@ -40839,7 +40839,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_SMD_0603"
+		(property "Footprint" "OpeN64:OpeN64_SMD_0603"
 			(at 816.61 457.2 0)
 			(effects
 				(font
@@ -41040,7 +41040,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_SMD_0603"
+		(property "Footprint" "OpeN64:OpeN64_SMD_0603"
 			(at 629.92 627.38 0)
 			(effects
 				(font
@@ -41109,7 +41109,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_SMD_0805"
+		(property "Footprint" "OpeN64:OpeN64_SMD_0805"
 			(at 645.16 627.38 0)
 			(effects
 				(font
@@ -41178,7 +41178,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_SMD_0603"
+		(property "Footprint" "OpeN64:OpeN64_SMD_0603"
 			(at 651.51 231.14 0)
 			(effects
 				(font
@@ -41247,7 +41247,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_SMD_0805"
+		(property "Footprint" "OpeN64:OpeN64_SMD_0805"
 			(at 792.48 571.5 0)
 			(effects
 				(font
@@ -41317,7 +41317,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_P3_Right_Controller_Port"
+		(property "Footprint" "OpeN64:OpeN64_P3_Right_Controller_Port"
 			(at 1010.92 238.76 0)
 			(effects
 				(font
@@ -41398,7 +41398,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_SMD_0805"
+		(property "Footprint" "OpeN64:OpeN64_SMD_0805"
 			(at 660.4 627.38 0)
 			(effects
 				(font
@@ -41467,7 +41467,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_SMD_0603"
+		(property "Footprint" "OpeN64:OpeN64_SMD_0603"
 			(at 882.65 472.44 0)
 			(effects
 				(font
@@ -41600,7 +41600,7 @@
 				)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_Filter"
+		(property "Footprint" "OpeN64:OpeN64_Filter"
 			(at 972.82 173.99 0)
 			(effects
 				(font
@@ -41669,7 +41669,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_SMD_0603"
+		(property "Footprint" "OpeN64:OpeN64_SMD_0603"
 			(at 453.39 490.22 0)
 			(effects
 				(font
@@ -41870,7 +41870,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_SMD_0603"
+		(property "Footprint" "OpeN64:OpeN64_SMD_0603"
 			(at 745.49 627.38 0)
 			(effects
 				(font
@@ -41939,7 +41939,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_SMD_0603"
+		(property "Footprint" "OpeN64:OpeN64_SMD_0603"
 			(at 678.18 364.49 0)
 			(effects
 				(font
@@ -42007,7 +42007,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_U11_14_RDRAM18-NUS"
+		(property "Footprint" "OpeN64:OpeN64_U11_14_RDRAM18-NUS"
 			(at 323.85 367.03 0)
 			(effects
 				(font
@@ -42232,7 +42232,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_SMD_0805"
+		(property "Footprint" "OpeN64:OpeN64_SMD_0805"
 			(at 698.5 584.2 0)
 			(effects
 				(font
@@ -42301,7 +42301,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_SMD_0805"
+		(property "Footprint" "OpeN64:OpeN64_SMD_0805"
 			(at 520.7 415.29 0)
 			(effects
 				(font
@@ -42370,7 +42370,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_SMD_0805"
+		(property "Footprint" "OpeN64:OpeN64_SMD_0805"
 			(at 504.19 511.81 0)
 			(effects
 				(font
@@ -42504,7 +42504,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_CAP_AL_SMD_6.2x4.7"
+		(property "Footprint" "OpeN64:OpeN64_CAP_AL_SMD_6.2x4.7"
 			(at 858.52 332.74 0)
 			(effects
 				(font
@@ -42703,7 +42703,7 @@
 				)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_Filter"
+		(property "Footprint" "OpeN64:OpeN64_Filter"
 			(at 974.09 229.87 0)
 			(effects
 				(font
@@ -42837,7 +42837,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_SMD_0805"
+		(property "Footprint" "OpeN64:OpeN64_SMD_0805"
 			(at 557.53 347.98 0)
 			(effects
 				(font
@@ -43038,7 +43038,7 @@
 				)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_Diode"
+		(property "Footprint" "OpeN64:OpeN64_Diode"
 			(at 792.48 374.65 90)
 			(effects
 				(font
@@ -43107,7 +43107,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_SMD_0603"
+		(property "Footprint" "OpeN64:OpeN64_SMD_0603"
 			(at 887.73 486.41 0)
 			(effects
 				(font
@@ -43176,7 +43176,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_SMD_0603"
+		(property "Footprint" "OpeN64:OpeN64_SMD_0603"
 			(at 681.99 214.63 0)
 			(effects
 				(font
@@ -43443,7 +43443,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_SMD_0603"
+		(property "Footprint" "OpeN64:OpeN64_SMD_0603"
 			(at 765.81 605.79 0)
 			(effects
 				(font
@@ -43709,7 +43709,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_SMD_0603"
+		(property "Footprint" "OpeN64:OpeN64_SMD_0603"
 			(at 829.31 360.68 0)
 			(effects
 				(font
@@ -43778,7 +43778,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_SMD_0603"
+		(property "Footprint" "OpeN64:OpeN64_SMD_0603"
 			(at 549.91 433.07 0)
 			(effects
 				(font
@@ -43845,7 +43845,7 @@
 				)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_SMD_0603"
+		(property "Footprint" "OpeN64:OpeN64_SMD_0603"
 			(at 986.79 210.82 0)
 			(effects
 				(font
@@ -43914,7 +43914,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_SMD_0603"
+		(property "Footprint" "OpeN64:OpeN64_SMD_0603"
 			(at 476.25 337.82 0)
 			(effects
 				(font
@@ -43983,7 +43983,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_SMD_0805"
+		(property "Footprint" "OpeN64:OpeN64_SMD_0805"
 			(at 604.52 322.58 0)
 			(effects
 				(font
@@ -44052,7 +44052,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_SMD_0603"
+		(property "Footprint" "OpeN64:OpeN64_SMD_0603"
 			(at 857.25 501.65 0)
 			(effects
 				(font
@@ -44119,7 +44119,7 @@
 				)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_Filter"
+		(property "Footprint" "OpeN64:OpeN64_Filter"
 			(at 972.82 201.93 0)
 			(effects
 				(font
@@ -44186,7 +44186,7 @@
 				)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_SMD_0603"
+		(property "Footprint" "OpeN64:OpeN64_SMD_0603"
 			(at 750.57 175.26 0)
 			(effects
 				(font
@@ -44255,7 +44255,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_SMD_0603"
+		(property "Footprint" "OpeN64:OpeN64_SMD_0603"
 			(at 721.36 563.88 0)
 			(effects
 				(font
@@ -44522,7 +44522,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_SMD_0805"
+		(property "Footprint" "OpeN64:OpeN64_SMD_0805"
 			(at 792.48 563.88 0)
 			(effects
 				(font
@@ -44657,7 +44657,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_CAP_AL_SMD_3.8x4.5"
+		(property "Footprint" "OpeN64:OpeN64_CAP_AL_SMD_3.8x4.5"
 			(at 670.56 238.76 0)
 			(effects
 				(font
@@ -44726,7 +44726,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_SMD_0805"
+		(property "Footprint" "OpeN64:OpeN64_SMD_0805"
 			(at 534.67 415.29 0)
 			(effects
 				(font
@@ -44795,7 +44795,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_SMD_0805"
+		(property "Footprint" "OpeN64:OpeN64_SMD_0805"
 			(at 473.71 490.22 0)
 			(effects
 				(font
@@ -44929,7 +44929,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_SMD_0603"
+		(property "Footprint" "OpeN64:OpeN64_SMD_0603"
 			(at 480.06 627.38 0)
 			(effects
 				(font
@@ -44998,7 +44998,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_SMD_0603"
+		(property "Footprint" "OpeN64:OpeN64_SMD_0603"
 			(at 769.62 464.82 0)
 			(effects
 				(font
@@ -45067,7 +45067,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_SMD_0805"
+		(property "Footprint" "OpeN64:OpeN64_SMD_0805"
 			(at 792.48 579.12 0)
 			(effects
 				(font
@@ -45136,7 +45136,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_SMD_0603"
+		(property "Footprint" "OpeN64:OpeN64_SMD_0603"
 			(at 608.33 627.38 0)
 			(effects
 				(font
@@ -45205,7 +45205,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_SMD_0603"
+		(property "Footprint" "OpeN64:OpeN64_SMD_0603"
 			(at 715.01 627.38 0)
 			(effects
 				(font
@@ -45339,7 +45339,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_SMD_0603"
+		(property "Footprint" "OpeN64:OpeN64_SMD_0603"
 			(at 533.4 627.38 0)
 			(effects
 				(font
@@ -45472,7 +45472,7 @@
 				)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_U13_TO-252"
+		(property "Footprint" "OpeN64:OpeN64_U13_TO-252"
 			(at 529.59 217.17 0)
 			(effects
 				(font
@@ -45609,7 +45609,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_SMD_0603"
+		(property "Footprint" "OpeN64:OpeN64_SMD_0603"
 			(at 882.65 485.14 0)
 			(effects
 				(font
@@ -45745,7 +45745,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_SMD_0603"
+		(property "Footprint" "OpeN64:OpeN64_SMD_0603"
 			(at 681.99 246.38 0)
 			(effects
 				(font
@@ -45879,7 +45879,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_SMD_0603"
+		(property "Footprint" "OpeN64:OpeN64_SMD_0603"
 			(at 504.19 534.67 0)
 			(effects
 				(font
@@ -46081,7 +46081,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_SMD_0603"
+		(property "Footprint" "OpeN64:OpeN64_SMD_0603"
 			(at 897.89 566.42 0)
 			(effects
 				(font
@@ -46150,7 +46150,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_SMD_0603"
+		(property "Footprint" "OpeN64:OpeN64_SMD_0603"
 			(at 464.82 627.38 0)
 			(effects
 				(font
@@ -46219,7 +46219,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_SMD_0603"
+		(property "Footprint" "OpeN64:OpeN64_SMD_0603"
 			(at 905.51 581.66 0)
 			(effects
 				(font
@@ -46288,7 +46288,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_SMD_0603"
+		(property "Footprint" "OpeN64:OpeN64_SMD_0603"
 			(at 520.7 426.72 0)
 			(effects
 				(font
@@ -46355,7 +46355,7 @@
 				)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_Filter"
+		(property "Footprint" "OpeN64:OpeN64_Filter"
 			(at 974.09 243.84 0)
 			(effects
 				(font
@@ -46424,7 +46424,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_CAP_AL_SMD_6.2x4.7"
+		(property "Footprint" "OpeN64:OpeN64_CAP_AL_SMD_6.2x4.7"
 			(at 543.56 220.98 0)
 			(effects
 				(font
@@ -46493,7 +46493,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_SMD_0603"
+		(property "Footprint" "OpeN64:OpeN64_SMD_0603"
 			(at 393.7 584.2 0)
 			(effects
 				(font
@@ -46560,7 +46560,7 @@
 				)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_SMD_0603"
+		(property "Footprint" "OpeN64:OpeN64_SMD_0603"
 			(at 981.71 210.82 0)
 			(effects
 				(font
@@ -46629,7 +46629,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_SMD_0805"
+		(property "Footprint" "OpeN64:OpeN64_SMD_0805"
 			(at 744.22 563.88 0)
 			(effects
 				(font
@@ -46764,7 +46764,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_SMD_1206"
+		(property "Footprint" "OpeN64:OpeN64_SMD_1206"
 			(at 627.38 203.2 0)
 			(effects
 				(font
@@ -46832,7 +46832,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_U12_PQ7VZ5"
+		(property "Footprint" "OpeN64:OpeN64_U12_PQ7VZ5"
 			(at 528.32 339.09 0)
 			(effects
 				(font
@@ -47039,7 +47039,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_U5_ENC-NUS"
+		(property "Footprint" "OpeN64:OpeN64_U5_ENC-NUS"
 			(at 811.53 575.31 0)
 			(effects
 				(font
@@ -47144,7 +47144,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_SMD_0603"
+		(property "Footprint" "OpeN64:OpeN64_SMD_0603"
 			(at 834.39 505.46 0)
 			(effects
 				(font
@@ -47212,7 +47212,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_U8_LV125A"
+		(property "Footprint" "OpeN64:OpeN64_U8_LV125A"
 			(at 808.99 193.04 0)
 			(effects
 				(font
@@ -47448,7 +47448,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_SMD_0603"
+		(property "Footprint" "OpeN64:OpeN64_SMD_0603"
 			(at 516.89 220.98 0)
 			(effects
 				(font
@@ -47517,7 +47517,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_SMD_0603"
+		(property "Footprint" "OpeN64:OpeN64_SMD_0603"
 			(at 463.55 581.66 0)
 			(effects
 				(font
@@ -47651,7 +47651,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_SMD_0603"
+		(property "Footprint" "OpeN64:OpeN64_SMD_0603"
 			(at 607.06 231.14 0)
 			(effects
 				(font
@@ -47722,7 +47722,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_CRYSTAL_HC49S_TH"
+		(property "Footprint" "OpeN64:OpeN64_CRYSTAL_HC49S_TH"
 			(at 374.65 551.18 0)
 			(effects
 				(font
@@ -47791,7 +47791,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_Q_T23"
+		(property "Footprint" "OpeN64:OpeN64_Q_T23"
 			(at 851.535 494.665 0)
 			(effects
 				(font
@@ -47864,7 +47864,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_SMD_0603"
+		(property "Footprint" "OpeN64:OpeN64_SMD_0603"
 			(at 890.27 563.88 0)
 			(effects
 				(font
@@ -47933,7 +47933,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_SMD_0603"
+		(property "Footprint" "OpeN64:OpeN64_SMD_0603"
 			(at 901.7 574.04 0)
 			(effects
 				(font
@@ -48068,7 +48068,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_SMD_0805"
+		(property "Footprint" "OpeN64:OpeN64_SMD_0805"
 			(at 421.64 495.3 0)
 			(effects
 				(font
@@ -48137,7 +48137,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_SMD_0603"
+		(property "Footprint" "OpeN64:OpeN64_SMD_0603"
 			(at 683.26 627.38 0)
 			(effects
 				(font
@@ -48206,7 +48206,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_SMD_0603"
+		(property "Footprint" "OpeN64:OpeN64_SMD_0603"
 			(at 476.25 364.49 0)
 			(effects
 				(font
@@ -48275,7 +48275,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_SMD_0603"
+		(property "Footprint" "OpeN64:OpeN64_SMD_0603"
 			(at 867.41 505.46 0)
 			(effects
 				(font
@@ -48343,7 +48343,7 @@
 				)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_Diode_Array"
+		(property "Footprint" "OpeN64:OpeN64_Diode_Array"
 			(at 847.09 589.28 0)
 			(effects
 				(font
@@ -48478,7 +48478,7 @@
 				)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_SMD_0805"
+		(property "Footprint" "OpeN64:OpeN64_SMD_0805"
 			(at 792.48 247.65 0)
 			(effects
 				(font
@@ -48679,7 +48679,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_SMD_0603"
+		(property "Footprint" "OpeN64:OpeN64_SMD_0603"
 			(at 784.86 176.53 0)
 			(effects
 				(font
@@ -48747,7 +48747,7 @@
 				)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_P4_Power_Port"
+		(property "Footprint" "OpeN64:OpeN64_P4_Power_Port"
 			(at 447.04 207.01 0)
 			(effects
 				(font
@@ -48828,7 +48828,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_SMD_0603"
+		(property "Footprint" "OpeN64:OpeN64_SMD_0603"
 			(at 594.36 205.74 0)
 			(effects
 				(font
@@ -48897,7 +48897,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_SMD_0603"
+		(property "Footprint" "OpeN64:OpeN64_SMD_0603"
 			(at 368.3 612.14 0)
 			(effects
 				(font
@@ -48966,7 +48966,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_SMD_0603"
+		(property "Footprint" "OpeN64:OpeN64_SMD_0603"
 			(at 833.12 191.77 0)
 			(effects
 				(font
@@ -49168,7 +49168,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_SMD_0805"
+		(property "Footprint" "OpeN64:OpeN64_SMD_0805"
 			(at 736.6 563.88 0)
 			(effects
 				(font
@@ -49237,7 +49237,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_SMD_0603"
+		(property "Footprint" "OpeN64:OpeN64_SMD_0603"
 			(at 836.93 397.51 0)
 			(effects
 				(font
@@ -49306,7 +49306,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_CAP_AL_SMD_6.2x4.7"
+		(property "Footprint" "OpeN64:OpeN64_CAP_AL_SMD_6.2x4.7"
 			(at 873.76 379.73 0)
 			(effects
 				(font
@@ -49440,7 +49440,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_SMD_0805"
+		(property "Footprint" "OpeN64:OpeN64_SMD_0805"
 			(at 557.53 339.09 0)
 			(effects
 				(font
@@ -49575,7 +49575,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_SMD_0603"
+		(property "Footprint" "OpeN64:OpeN64_SMD_0603"
 			(at 890.27 571.5 0)
 			(effects
 				(font
@@ -49775,7 +49775,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_SMD_0603"
+		(property "Footprint" "OpeN64:OpeN64_SMD_0603"
 			(at 617.22 203.2 0)
 			(effects
 				(font
@@ -49843,7 +49843,7 @@
 				)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_Diode_Array"
+		(property "Footprint" "OpeN64:OpeN64_Diode_Array"
 			(at 929.64 167.64 0)
 			(effects
 				(font
@@ -49981,7 +49981,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_SMD_0603"
+		(property "Footprint" "OpeN64:OpeN64_SMD_0603"
 			(at 394.97 527.05 0)
 			(effects
 				(font
@@ -50050,7 +50050,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_SMD_0603"
+		(property "Footprint" "OpeN64:OpeN64_SMD_0603"
 			(at 571.5 627.38 0)
 			(effects
 				(font
@@ -50186,7 +50186,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_SMD_0603"
+		(property "Footprint" "OpeN64:OpeN64_SMD_0603"
 			(at 781.05 483.87 0)
 			(effects
 				(font
@@ -50255,7 +50255,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_SMD_0603"
+		(property "Footprint" "OpeN64:OpeN64_SMD_0603"
 			(at 890.27 579.12 0)
 			(effects
 				(font
@@ -50390,7 +50390,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_CAP_AL_SMD_6.2x4.7"
+		(property "Footprint" "OpeN64:OpeN64_CAP_AL_SMD_6.2x4.7"
 			(at 913.13 300.99 0)
 			(effects
 				(font
@@ -50459,7 +50459,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_SMD_0805"
+		(property "Footprint" "OpeN64:OpeN64_SMD_0805"
 			(at 736.6 584.2 0)
 			(effects
 				(font
@@ -50658,7 +50658,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_U11_14_RDRAM18-NUS"
+		(property "Footprint" "OpeN64:OpeN64_U11_14_RDRAM18-NUS"
 			(at 322.58 250.19 0)
 			(effects
 				(font
@@ -50817,7 +50817,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_SMD_0603"
+		(property "Footprint" "OpeN64:OpeN64_SMD_0603"
 			(at 615.95 627.38 0)
 			(effects
 				(font
@@ -51084,7 +51084,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_SMD_0805"
+		(property "Footprint" "OpeN64:OpeN64_SMD_0805"
 			(at 506.73 426.72 0)
 			(effects
 				(font
@@ -51153,7 +51153,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_SMD_0805"
+		(property "Footprint" "OpeN64:OpeN64_SMD_0805"
 			(at 713.74 584.2 0)
 			(effects
 				(font
@@ -51223,7 +51223,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_CAP_AL_SMD_6.2x4.7"
+		(property "Footprint" "OpeN64:OpeN64_CAP_AL_SMD_6.2x4.7"
 			(at 754.38 421.64 0)
 			(effects
 				(font
@@ -51359,7 +51359,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_SMD_0805"
+		(property "Footprint" "OpeN64:OpeN64_SMD_0805"
 			(at 681.99 347.98 0)
 			(effects
 				(font
@@ -51557,7 +51557,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_P1_RDRAM_Expansion_Port"
+		(property "Footprint" "OpeN64:OpeN64_P1_RDRAM_Expansion_Port"
 			(at 326.39 482.6 0)
 			(effects
 				(font
@@ -51804,7 +51804,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_U6_PIF"
+		(property "Footprint" "OpeN64:OpeN64_U6_PIF"
 			(at 748.03 212.09 0)
 			(effects
 				(font
@@ -52016,7 +52016,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_CAP_AL_SMD_3.8x4.5"
+		(property "Footprint" "OpeN64:OpeN64_CAP_AL_SMD_3.8x4.5"
 			(at 797.56 384.81 0)
 			(effects
 				(font
@@ -52151,7 +52151,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_SMD_0603"
+		(property "Footprint" "OpeN64:OpeN64_SMD_0603"
 			(at 367.03 547.37 0)
 			(effects
 				(font
@@ -52220,7 +52220,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_SMD_0603"
+		(property "Footprint" "OpeN64:OpeN64_SMD_0603"
 			(at 779.78 425.45 0)
 			(effects
 				(font
@@ -52288,7 +52288,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_U10_CPU-NUS"
+		(property "Footprint" "OpeN64:OpeN64_U10_CPU-NUS"
 			(at 594.36 495.3 0)
 			(effects
 				(font
@@ -52777,7 +52777,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_SMD_0805"
+		(property "Footprint" "OpeN64:OpeN64_SMD_0805"
 			(at 706.12 584.2 0)
 			(effects
 				(font
@@ -52911,7 +52911,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_SMD_0805"
+		(property "Footprint" "OpeN64:OpeN64_SMD_0805"
 			(at 392.43 505.46 0)
 			(effects
 				(font
@@ -52980,7 +52980,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_SMD_0603"
+		(property "Footprint" "OpeN64:OpeN64_SMD_0603"
 			(at 871.22 191.77 0)
 			(effects
 				(font
@@ -53049,7 +53049,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_CAP_AL_SMD_6.2x4.7"
+		(property "Footprint" "OpeN64:OpeN64_CAP_AL_SMD_6.2x4.7"
 			(at 953.77 167.64 0)
 			(effects
 				(font
@@ -53185,7 +53185,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_SMD_0603"
+		(property "Footprint" "OpeN64:OpeN64_SMD_0603"
 			(at 834.39 485.14 0)
 			(effects
 				(font
@@ -53254,7 +53254,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_SMD_0805"
+		(property "Footprint" "OpeN64:OpeN64_SMD_0805"
 			(at 463.55 511.81 0)
 			(effects
 				(font
@@ -53321,7 +53321,7 @@
 				)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_SMD_0603"
+		(property "Footprint" "OpeN64:OpeN64_SMD_0603"
 			(at 859.79 339.09 0)
 			(effects
 				(font
@@ -53390,7 +53390,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_SMD_0603"
+		(property "Footprint" "OpeN64:OpeN64_SMD_0603"
 			(at 721.36 584.2 0)
 			(effects
 				(font
@@ -53459,7 +53459,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_SMD_0603"
+		(property "Footprint" "OpeN64:OpeN64_SMD_0603"
 			(at 461.01 364.49 0)
 			(effects
 				(font
@@ -53528,7 +53528,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_CAP_AL_SMD_6.2x4.7"
+		(property "Footprint" "OpeN64:OpeN64_CAP_AL_SMD_6.2x4.7"
 			(at 501.65 337.82 0)
 			(effects
 				(font
@@ -53929,7 +53929,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_SMD_0603"
+		(property "Footprint" "OpeN64:OpeN64_SMD_0603"
 			(at 668.02 627.38 0)
 			(effects
 				(font
@@ -53998,7 +53998,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_SMD_0603"
+		(property "Footprint" "OpeN64:OpeN64_SMD_0603"
 			(at 567.69 205.74 0)
 			(effects
 				(font
@@ -54067,7 +54067,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_SMD_0805"
+		(property "Footprint" "OpeN64:OpeN64_SMD_0805"
 			(at 494.03 534.67 0)
 			(effects
 				(font
@@ -54136,7 +54136,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_SMD_0603"
+		(property "Footprint" "OpeN64:OpeN64_SMD_0603"
 			(at 775.97 176.53 0)
 			(effects
 				(font
@@ -54205,7 +54205,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_SMD_0603"
+		(property "Footprint" "OpeN64:OpeN64_SMD_0603"
 			(at 473.71 511.81 0)
 			(effects
 				(font
@@ -54274,7 +54274,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_SMD_0603"
+		(property "Footprint" "OpeN64:OpeN64_SMD_0603"
 			(at 652.78 627.38 0)
 			(effects
 				(font
@@ -54341,7 +54341,7 @@
 				)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_SMD_0603"
+		(property "Footprint" "OpeN64:OpeN64_SMD_0603"
 			(at 892.81 185.42 0)
 			(effects
 				(font
@@ -54410,7 +54410,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_SMD_0603"
+		(property "Footprint" "OpeN64:OpeN64_SMD_0603"
 			(at 483.87 337.82 0)
 			(effects
 				(font
@@ -54479,7 +54479,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_SMD_0603"
+		(property "Footprint" "OpeN64:OpeN64_SMD_0603"
 			(at 477.52 209.55 0)
 			(effects
 				(font
@@ -54548,7 +54548,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_SMD_0603"
+		(property "Footprint" "OpeN64:OpeN64_SMD_0603"
 			(at 640.08 525.78 0)
 			(effects
 				(font
@@ -54616,7 +54616,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_U7_15_MX8330"
+		(property "Footprint" "OpeN64:OpeN64_U7_15_MX8330"
 			(at 393.7 549.91 0)
 			(effects
 				(font
@@ -54769,7 +54769,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_SMD_0603"
+		(property "Footprint" "OpeN64:OpeN64_SMD_0603"
 			(at 473.71 534.67 0)
 			(effects
 				(font
@@ -55230,7 +55230,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_SMD_0603"
+		(property "Footprint" "OpeN64:OpeN64_SMD_0603"
 			(at 885.19 472.44 0)
 			(effects
 				(font
@@ -55363,7 +55363,7 @@
 				)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_Diode_Array"
+		(property "Footprint" "OpeN64:OpeN64_Diode_Array"
 			(at 847.09 548.64 0)
 			(effects
 				(font
@@ -55435,7 +55435,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_SMD_0603"
+		(property "Footprint" "OpeN64:OpeN64_SMD_0603"
 			(at 820.42 360.68 0)
 			(effects
 				(font
@@ -55504,7 +55504,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_SMD_0805"
+		(property "Footprint" "OpeN64:OpeN64_SMD_0805"
 			(at 600.71 347.98 0)
 			(effects
 				(font
@@ -55573,7 +55573,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_SMD_0805"
+		(property "Footprint" "OpeN64:OpeN64_SMD_0805"
 			(at 461.01 337.82 0)
 			(effects
 				(font
@@ -55707,7 +55707,7 @@
 				)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_SMD_0603"
+		(property "Footprint" "OpeN64:OpeN64_SMD_0603"
 			(at 901.7 185.42 0)
 			(effects
 				(font
@@ -55841,7 +55841,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_SMD_0603"
+		(property "Footprint" "OpeN64:OpeN64_SMD_0603"
 			(at 463.55 534.67 0)
 			(effects
 				(font
@@ -55910,7 +55910,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_SMD_0603"
+		(property "Footprint" "OpeN64:OpeN64_SMD_0603"
 			(at 441.96 627.38 0)
 			(effects
 				(font
@@ -56174,7 +56174,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_SMD_0603"
+		(property "Footprint" "OpeN64:OpeN64_SMD_0603"
 			(at 892.81 194.31 0)
 			(effects
 				(font
@@ -56243,7 +56243,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_SMD_0805"
+		(property "Footprint" "OpeN64:OpeN64_SMD_0805"
 			(at 463.55 490.22 0)
 			(effects
 				(font
@@ -56310,7 +56310,7 @@
 				)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_SMD_0603"
+		(property "Footprint" "OpeN64:OpeN64_SMD_0603"
 			(at 910.59 185.42 0)
 			(effects
 				(font
@@ -56445,7 +56445,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_CAP_AL_SMD_6.2x4.7"
+		(property "Footprint" "OpeN64:OpeN64_CAP_AL_SMD_6.2x4.7"
 			(at 594.36 232.41 0)
 			(effects
 				(font
@@ -56512,7 +56512,7 @@
 				)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_SW2_Reset"
+		(property "Footprint" "OpeN64:OpeN64_SW2_Reset"
 			(at 792.48 234.95 0)
 			(effects
 				(font
@@ -56587,7 +56587,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_SMD_0603"
+		(property "Footprint" "OpeN64:OpeN64_SMD_0603"
 			(at 548.64 627.38 0)
 			(effects
 				(font
@@ -56656,7 +56656,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_P5_Cartridge_Slot"
+		(property "Footprint" "OpeN64:OpeN64_P5_Cartridge_Slot"
 			(at 928.37 370.84 0)
 			(effects
 				(font
@@ -57001,7 +57001,7 @@
 				)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_U9_RCP-NUS"
+		(property "Footprint" "OpeN64:OpeN64_U9_RCP-NUS"
 			(at 719.582 323.596 0)
 			(effects
 				(font
@@ -57609,7 +57609,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_SMD_0603"
+		(property "Footprint" "OpeN64:OpeN64_SMD_0603"
 			(at 770.89 610.87 0)
 			(effects
 				(font
@@ -57810,7 +57810,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_SMD_0603"
+		(property "Footprint" "OpeN64:OpeN64_SMD_0603"
 			(at 495.3 627.38 0)
 			(effects
 				(font
@@ -57944,7 +57944,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_SMD_0603"
+		(property "Footprint" "OpeN64:OpeN64_SMD_0603"
 			(at 910.59 194.31 0)
 			(effects
 				(font
@@ -58013,7 +58013,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_SMD_0603"
+		(property "Footprint" "OpeN64:OpeN64_SMD_0603"
 			(at 504.19 490.22 0)
 			(effects
 				(font
@@ -58082,7 +58082,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_SMD_0603"
+		(property "Footprint" "OpeN64:OpeN64_SMD_0603"
 			(at 713.74 563.88 0)
 			(effects
 				(font
@@ -58149,7 +58149,7 @@
 				)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_SMD_0603"
+		(property "Footprint" "OpeN64:OpeN64_SMD_0603"
 			(at 986.79 261.62 0)
 			(effects
 				(font
@@ -58217,7 +58217,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_U1_9480F"
+		(property "Footprint" "OpeN64:OpeN64_U1_9480F"
 			(at 789.94 355.6 0)
 			(effects
 				(font
@@ -58370,7 +58370,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_SMD_0603"
+		(property "Footprint" "OpeN64:OpeN64_SMD_0603"
 			(at 463.55 557.53 0)
 			(effects
 				(font
@@ -58701,7 +58701,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_SMD_0603"
+		(property "Footprint" "OpeN64:OpeN64_SMD_0603"
 			(at 698.5 563.88 0)
 			(effects
 				(font
@@ -58769,7 +58769,7 @@
 				)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_Diode_Array"
+		(property "Footprint" "OpeN64:OpeN64_Diode_Array"
 			(at 935.99 218.44 0)
 			(effects
 				(font
@@ -58905,7 +58905,7 @@
 				)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_SMD_0603"
+		(property "Footprint" "OpeN64:OpeN64_SMD_0603"
 			(at 883.92 185.42 0)
 			(effects
 				(font
@@ -58974,7 +58974,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_SMD_0603"
+		(property "Footprint" "OpeN64:OpeN64_SMD_0603"
 			(at 563.88 627.38 0)
 			(effects
 				(font
@@ -59043,7 +59043,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_SMD_0603"
+		(property "Footprint" "OpeN64:OpeN64_SMD_0603"
 			(at 513.08 337.82 0)
 			(effects
 				(font
@@ -59112,7 +59112,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_SMD_0603"
+		(property "Footprint" "OpeN64:OpeN64_SMD_0603"
 			(at 556.26 627.38 0)
 			(effects
 				(font
@@ -59246,7 +59246,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_SMD_0805"
+		(property "Footprint" "OpeN64:OpeN64_SMD_0805"
 			(at 483.87 581.66 0)
 			(effects
 				(font
@@ -59315,7 +59315,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_Diode"
+		(property "Footprint" "OpeN64:OpeN64_Diode"
 			(at 697.23 214.63 90)
 			(effects
 				(font
@@ -59384,7 +59384,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_SMD_0603"
+		(property "Footprint" "OpeN64:OpeN64_SMD_0603"
 			(at 502.92 627.38 0)
 			(effects
 				(font
@@ -59453,7 +59453,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_SMD_0603"
+		(property "Footprint" "OpeN64:OpeN64_SMD_0603"
 			(at 487.68 627.38 0)
 			(effects
 				(font
@@ -59522,7 +59522,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_SMD_0603"
+		(property "Footprint" "OpeN64:OpeN64_SMD_0603"
 			(at 579.12 627.38 0)
 			(effects
 				(font
@@ -59591,7 +59591,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_SMD_0603"
+		(property "Footprint" "OpeN64:OpeN64_SMD_0603"
 			(at 473.71 557.53 0)
 			(effects
 				(font
@@ -59792,7 +59792,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_U2_AMP_NUS"
+		(property "Footprint" "OpeN64:OpeN64_U2_AMP_NUS"
 			(at 859.79 361.95 0)
 			(effects
 				(font
@@ -59960,7 +59960,7 @@
 				)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_Filter"
+		(property "Footprint" "OpeN64:OpeN64_Filter"
 			(at 972.82 195.58 0)
 			(effects
 				(font
@@ -60093,7 +60093,7 @@
 				)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_Filter"
+		(property "Footprint" "OpeN64:OpeN64_Filter"
 			(at 972.82 180.34 0)
 			(effects
 				(font
@@ -60162,7 +60162,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_SMD_0603"
+		(property "Footprint" "OpeN64:OpeN64_SMD_0603"
 			(at 670.56 214.63 0)
 			(effects
 				(font
@@ -60231,7 +60231,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_SMD_0603"
+		(property "Footprint" "OpeN64:OpeN64_SMD_0603"
 			(at 500.38 210.82 0)
 			(effects
 				(font
@@ -60365,7 +60365,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_SMD_0805"
+		(property "Footprint" "OpeN64:OpeN64_SMD_0805"
 			(at 483.87 511.81 0)
 			(effects
 				(font
@@ -60498,7 +60498,7 @@
 				)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_Diode_Array_5_Pin"
+		(property "Footprint" "OpeN64:OpeN64_Diode_Array_5_Pin"
 			(at 863.6 231.14 0)
 			(effects
 				(font
@@ -60569,7 +60569,7 @@
 				)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_Diode_Array_5_Pin"
+		(property "Footprint" "OpeN64:OpeN64_Diode_Array_5_Pin"
 			(at 840.74 231.14 0)
 			(effects
 				(font
@@ -60639,7 +60639,7 @@
 				)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_SMD_0603"
+		(property "Footprint" "OpeN64:OpeN64_SMD_0603"
 			(at 807.72 173.99 0)
 			(effects
 				(font
@@ -60708,7 +60708,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_SMD_0603"
+		(property "Footprint" "OpeN64:OpeN64_SMD_0603"
 			(at 494.03 511.81 0)
 			(effects
 				(font
@@ -60844,7 +60844,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_SMD_0603"
+		(property "Footprint" "OpeN64:OpeN64_SMD_0603"
 			(at 483.87 490.22 0)
 			(effects
 				(font
@@ -60913,7 +60913,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_SMD_0603"
+		(property "Footprint" "OpeN64:OpeN64_SMD_0603"
 			(at 449.58 627.38 0)
 			(effects
 				(font
@@ -61047,7 +61047,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_SMD_0805"
+		(property "Footprint" "OpeN64:OpeN64_SMD_0805"
 			(at 593.09 627.38 0)
 			(effects
 				(font
@@ -61116,7 +61116,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_SMD_0603"
+		(property "Footprint" "OpeN64:OpeN64_SMD_0603"
 			(at 443.23 490.22 0)
 			(effects
 				(font
@@ -61251,7 +61251,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_SMD_0603"
+		(property "Footprint" "OpeN64:OpeN64_SMD_0603"
 			(at 901.7 194.31 0)
 			(effects
 				(font
@@ -61320,7 +61320,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_SMD_0603"
+		(property "Footprint" "OpeN64:OpeN64_SMD_0603"
 			(at 688.34 364.49 0)
 			(effects
 				(font
@@ -61388,7 +61388,7 @@
 				)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_Diode_Array"
+		(property "Footprint" "OpeN64:OpeN64_Diode_Array"
 			(at 869.95 589.28 0)
 			(effects
 				(font
@@ -61526,7 +61526,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_SMD_0603"
+		(property "Footprint" "OpeN64:OpeN64_SMD_0603"
 			(at 848.36 191.77 0)
 			(effects
 				(font
@@ -61660,7 +61660,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_SMD_0603"
+		(property "Footprint" "OpeN64:OpeN64_SMD_0603"
 			(at 707.39 627.38 0)
 			(effects
 				(font
@@ -61729,7 +61729,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_SMD_0603"
+		(property "Footprint" "OpeN64:OpeN64_SMD_0603"
 			(at 848.36 505.46 0)
 			(effects
 				(font
@@ -61796,7 +61796,7 @@
 				)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_Filter"
+		(property "Footprint" "OpeN64:OpeN64_Filter"
 			(at 974.09 250.19 0)
 			(effects
 				(font
@@ -61865,7 +61865,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_SMD_0603"
+		(property "Footprint" "OpeN64:OpeN64_SMD_0603"
 			(at 473.71 581.66 0)
 			(effects
 				(font
@@ -61934,7 +61934,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_CAP_AL_SMD_3.8x4.5_Flipped"
+		(property "Footprint" "OpeN64:OpeN64_CAP_AL_SMD_3.8x4.5_Flipped"
 			(at 881.38 351.79 0)
 			(effects
 				(font
@@ -62069,7 +62069,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_SMD_0805"
+		(property "Footprint" "OpeN64:OpeN64_SMD_0805"
 			(at 510.54 627.38 0)
 			(effects
 				(font
@@ -62138,7 +62138,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_CAP_AL_SMD_6.2x4.7"
+		(property "Footprint" "OpeN64:OpeN64_CAP_AL_SMD_6.2x4.7"
 			(at 561.34 453.39 0)
 			(effects
 				(font
@@ -62207,7 +62207,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_SMD_0603"
+		(property "Footprint" "OpeN64:OpeN64_SMD_0603"
 			(at 494.03 557.53 0)
 			(effects
 				(font
@@ -62276,7 +62276,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_SMD_1206"
+		(property "Footprint" "OpeN64:OpeN64_SMD_1206"
 			(at 585.47 205.74 0)
 			(effects
 				(font
@@ -62410,7 +62410,7 @@
 				)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_CAP_AL_SMD_7.8x4.9"
+		(property "Footprint" "OpeN64:OpeN64_CAP_AL_SMD_7.8x4.9"
 			(at 880.11 571.5 0)
 			(effects
 				(font
@@ -62479,7 +62479,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_SMD_0603"
+		(property "Footprint" "OpeN64:OpeN64_SMD_0603"
 			(at 812.8 425.45 0)
 			(effects
 				(font
@@ -62548,7 +62548,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_SMD_0603"
+		(property "Footprint" "OpeN64:OpeN64_SMD_0603"
 			(at 576.58 205.74 0)
 			(effects
 				(font
@@ -62617,7 +62617,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_SMD_0805"
+		(property "Footprint" "OpeN64:OpeN64_SMD_0805"
 			(at 728.98 584.2 0)
 			(effects
 				(font
@@ -62883,7 +62883,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_SMD_0805"
+		(property "Footprint" "OpeN64:OpeN64_SMD_0805"
 			(at 433.07 490.22 0)
 			(effects
 				(font
@@ -62950,7 +62950,7 @@
 				)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_SMD_0603"
+		(property "Footprint" "OpeN64:OpeN64_SMD_0603"
 			(at 981.71 261.62 0)
 			(effects
 				(font
@@ -63019,7 +63019,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_SMD_0805"
+		(property "Footprint" "OpeN64:OpeN64_SMD_0805"
 			(at 494.03 490.22 0)
 			(effects
 				(font
@@ -63219,7 +63219,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_SMD_0603"
+		(property "Footprint" "OpeN64:OpeN64_SMD_0603"
 			(at 833.12 397.51 0)
 			(effects
 				(font
@@ -63353,7 +63353,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_SMD_0603"
+		(property "Footprint" "OpeN64:OpeN64_SMD_0603"
 			(at 394.97 518.16 0)
 			(effects
 				(font
@@ -63488,7 +63488,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_SMD_0603"
+		(property "Footprint" "OpeN64:OpeN64_SMD_0603"
 			(at 472.44 627.38 0)
 			(effects
 				(font
@@ -63690,7 +63690,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_SMD_0805"
+		(property "Footprint" "OpeN64:OpeN64_SMD_0805"
 			(at 600.71 326.39 0)
 			(effects
 				(font
@@ -63757,7 +63757,7 @@
 				)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_CAP_AL_SMD_7.8x4.9"
+		(property "Footprint" "OpeN64:OpeN64_CAP_AL_SMD_7.8x4.9"
 			(at 880.11 563.88 0)
 			(effects
 				(font
@@ -63890,7 +63890,7 @@
 				)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_SMD_0603"
+		(property "Footprint" "OpeN64:OpeN64_SMD_0603"
 			(at 838.2 351.79 0)
 			(effects
 				(font
@@ -64024,7 +64024,7 @@
 				)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_SMD_0603"
+		(property "Footprint" "OpeN64:OpeN64_SMD_0603"
 			(at 787.4 340.36 0)
 			(effects
 				(font
@@ -64093,7 +64093,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_SMD_0603"
+		(property "Footprint" "OpeN64:OpeN64_SMD_0603"
 			(at 880.11 579.12 0)
 			(effects
 				(font
@@ -64162,7 +64162,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_SMD_0603"
+		(property "Footprint" "OpeN64:OpeN64_SMD_0603"
 			(at 816.61 447.04 0)
 			(effects
 				(font
@@ -64231,7 +64231,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_SMD_0603"
+		(property "Footprint" "OpeN64:OpeN64_SMD_0603"
 			(at 883.92 194.31 0)
 			(effects
 				(font
@@ -64300,7 +64300,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_SMD_0805"
+		(property "Footprint" "OpeN64:OpeN64_SMD_0805"
 			(at 468.63 364.49 0)
 			(effects
 				(font
@@ -64369,7 +64369,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_SMD_0805"
+		(property "Footprint" "OpeN64:OpeN64_SMD_0805"
 			(at 394.97 535.94 0)
 			(effects
 				(font
@@ -64437,7 +64437,7 @@
 				)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_SW1_Power_Switch"
+		(property "Footprint" "OpeN64:OpeN64_SW1_Power_Switch"
 			(at 490.22 203.2 0)
 			(effects
 				(font
@@ -64659,7 +64659,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_SMD_0603"
+		(property "Footprint" "OpeN64:OpeN64_SMD_0603"
 			(at 518.16 627.38 0)
 			(effects
 				(font
@@ -64728,7 +64728,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_SMD_0603"
+		(property "Footprint" "OpeN64:OpeN64_SMD_0603"
 			(at 393.7 575.31 0)
 			(effects
 				(font
@@ -64862,7 +64862,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_SMD_0603"
+		(property "Footprint" "OpeN64:OpeN64_SMD_0603"
 			(at 534.67 426.72 0)
 			(effects
 				(font
@@ -64932,7 +64932,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_P7_Video_Port"
+		(property "Footprint" "OpeN64:OpeN64_P7_Video_Port"
 			(at 930.91 488.95 0)
 			(effects
 				(font
@@ -65032,7 +65032,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_P2_Left_Controller_Port"
+		(property "Footprint" "OpeN64:OpeN64_P2_Left_Controller_Port"
 			(at 1010.92 190.5 0)
 			(effects
 				(font
@@ -65246,7 +65246,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_SMD_0603"
+		(property "Footprint" "OpeN64:OpeN64_SMD_0603"
 			(at 491.49 364.49 0)
 			(effects
 				(font
@@ -65315,7 +65315,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_SMD_0805"
+		(property "Footprint" "OpeN64:OpeN64_SMD_0805"
 			(at 483.87 364.49 0)
 			(effects
 				(font
@@ -65451,7 +65451,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_SMD_0603"
+		(property "Footprint" "OpeN64:OpeN64_SMD_0603"
 			(at 737.87 627.38 0)
 			(effects
 				(font
@@ -65585,7 +65585,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_SMD_0603"
+		(property "Footprint" "OpeN64:OpeN64_SMD_0603"
 			(at 657.86 364.49 0)
 			(effects
 				(font
@@ -65850,7 +65850,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_D3_Red_LED"
+		(property "Footprint" "OpeN64:OpeN64_D3_Red_LED"
 			(at 500.38 220.98 0)
 			(effects
 				(font
@@ -66257,7 +66257,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_SMD_0603"
+		(property "Footprint" "OpeN64:OpeN64_SMD_0603"
 			(at 457.2 627.38 0)
 			(effects
 				(font
@@ -66326,7 +66326,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_SMD_0603"
+		(property "Footprint" "OpeN64:OpeN64_SMD_0603"
 			(at 504.19 557.53 0)
 			(effects
 				(font
@@ -66460,7 +66460,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_SMD_0805"
+		(property "Footprint" "OpeN64:OpeN64_SMD_0805"
 			(at 393.7 593.09 0)
 			(effects
 				(font
@@ -66529,7 +66529,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_SMD_0603"
+		(property "Footprint" "OpeN64:OpeN64_SMD_0603"
 			(at 690.88 627.38 0)
 			(effects
 				(font
@@ -66598,7 +66598,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_SMD_0603"
+		(property "Footprint" "OpeN64:OpeN64_SMD_0603"
 			(at 792.48 382.27 0)
 			(effects
 				(font
@@ -66667,7 +66667,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_SMD_0805"
+		(property "Footprint" "OpeN64:OpeN64_SMD_0805"
 			(at 368.3 477.52 0)
 			(effects
 				(font
@@ -66736,7 +66736,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_SMD_0603"
+		(property "Footprint" "OpeN64:OpeN64_SMD_0603"
 			(at 728.98 563.88 0)
 			(effects
 				(font
@@ -66805,7 +66805,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_SMD_0805"
+		(property "Footprint" "OpeN64:OpeN64_SMD_0805"
 			(at 651.51 241.3 0)
 			(effects
 				(font
@@ -66938,7 +66938,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_U4_VDC-NUS"
+		(property "Footprint" "OpeN64:OpeN64_U4_VDC-NUS"
 			(at 796.29 444.5 0)
 			(effects
 				(font
@@ -67072,7 +67072,7 @@
 				)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_Diode_Array"
+		(property "Footprint" "OpeN64:OpeN64_Diode_Array"
 			(at 869.95 548.64 0)
 			(effects
 				(font
@@ -67209,7 +67209,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_SMD_0603"
+		(property "Footprint" "OpeN64:OpeN64_SMD_0603"
 			(at 706.12 563.88 0)
 			(effects
 				(font
@@ -67477,7 +67477,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_SMD_0603"
+		(property "Footprint" "OpeN64:OpeN64_SMD_0603"
 			(at 855.98 191.77 0)
 			(effects
 				(font
@@ -67546,7 +67546,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_SMD_1206"
+		(property "Footprint" "OpeN64:OpeN64_SMD_1206"
 			(at 603.25 205.74 0)
 			(effects
 				(font
@@ -67744,7 +67744,7 @@
 				)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_SMD_0603"
+		(property "Footprint" "OpeN64:OpeN64_SMD_0603"
 			(at 838.2 356.87 0)
 			(effects
 				(font
@@ -67813,7 +67813,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_SMD_0603"
+		(property "Footprint" "OpeN64:OpeN64_SMD_0603"
 			(at 367.03 554.99 0)
 			(effects
 				(font
@@ -67882,7 +67882,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_SMD_0603"
+		(property "Footprint" "OpeN64:OpeN64_SMD_0603"
 			(at 638.81 214.63 0)
 			(effects
 				(font
@@ -67950,7 +67950,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_U7_15_MX8330"
+		(property "Footprint" "OpeN64:OpeN64_U7_15_MX8330"
 			(at 394.97 605.79 0)
 			(effects
 				(font
@@ -68037,7 +68037,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_SMD_0805"
+		(property "Footprint" "OpeN64:OpeN64_SMD_0805"
 			(at 483.87 534.67 0)
 			(effects
 				(font
@@ -68106,7 +68106,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "N64 Motherboard Components:OpeN64_CAP_AL_SMD_6.2x4.7"
+		(property "Footprint" "OpeN64:OpeN64_CAP_AL_SMD_6.2x4.7"
 			(at 546.1 347.98 0)
 			(effects
 				(font
